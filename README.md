@@ -1,4 +1,2 @@
 # foofoofoo
 foofoo
-
-foo
